@@ -6,7 +6,7 @@
     "pronouns": "she/her",
     "email": "anna.quincey@gmail.com",
     "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "website": "https://gerald-aguilar.github.io/",
     "skills": [
         "HTML",
         "CSS",
@@ -32,13 +32,13 @@
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@gerald-aguilar",
+            "url": "https://github.com/gerald-aguilar"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "gerald-aguilar-008057109",
+            "url": "https://www.linkedin.com/in/gerald-aguilar-008057109/"
         }
     ]
 }
